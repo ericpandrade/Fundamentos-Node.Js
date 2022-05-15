@@ -7,14 +7,14 @@ Fundamentos estudados nesse projeto:
  
 - HTTP Codes
 - Parâmetros das Requisições
- - Header Params
- - Body Params
- - Query Params
- - Route Params
+  - Header Params
+  - Body Params
+  - Query Params
+  - Route Params
 - Boas práticas de API Rest
- - Padrões de nomenclatura
- - Utilização correta de status do retorno das respostas
- - Utilização correta dos métodos HTTP
+  - Padrões de nomenclatura
+  - Utilização correta de status do retorno das respostas
+  - Utilização correta dos métodos HTTP
 - Tipos de Requisições
 - Tipos de Parâmetros
 </span>
