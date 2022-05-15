@@ -4,6 +4,7 @@
 
 <span style="font-family: 'Poppins', sans-serif;font-size:11pt">
 Fundamentos estudados nesse projeto:
+ 
 - HTTP Codes
 - Parâmetros das Requisições
  - Header Params
